@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂ My name is Mohamed Adnan<br>🌱 I’m currently learning more technologies in Back-End development<br>⚡ Fun fact: My hobby is fishing
+🙋‍♂ My name is Mohamed Adnan<br>🌱 I’m currently learning more technologies in Back-End development<br>⚡ Fun fact: My Favorite Hobby is Fishing!
 
 
 # 💻 Tech Stack:
